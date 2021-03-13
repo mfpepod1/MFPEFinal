@@ -1,48 +1,67 @@
 # MFPEFinal
 
-Pod 1 MFPE
-Pension Management System
+Pod 1 MFPE  
+Pension Management System  
 
-Developed by:
-Samyuktha S
-Princi Kumari
-Shreya J B
-Ashish Kumar Sah
-
---------------------------------------------------------------------------------------------------
-Web Portal Access point: http://localhost:9096/
-
-Database Access points:
-Bank log table: http://localhost:9092/h2-console/
-User Credentials Table : http://localhost:9095/h2-console/
-
-Database credentials:
-Username: sa
-Password:
-
-Swagger access points:
-Webportal: http://localhost:9096/swagger-ui.html
-ProcessPension Microservice: http://localhost:9090/swagger-ui.html
-PensionDisbursement Microservice: http://localhost:9091/swagger-ui.html
-Pensioner Detail Microservice: http://localhost:9092/swagger-ui.html
-Authorization Microservice: http://localhost:9095/swagger-ui.html
+Developed by:  
+Samyuktha S  
+Princi Kumari  
+Shreya J B  
+Ashish Kumar Sah  
 
 --------------------------------------------------------------------------------------------------
+Web Portal Access point: http://localhost:9096/  
 
-Example for valid details:
+Database Access points:  
 
-Login Credentials:
-Username : admin
-Password : admin
+Bank log table: http://localhost:9092/h2-console/  
 
-Pensioner Detail Form:
-Name: Page Glasper
-DOB : 27-05-1970
-PAN Number : A123456789
-Aadhaar Number : 1234567891011120
-Pension Type : Family Pension
+User Credentials Table : http://localhost:9095/h2-console/  
 
-Process Pension Form:
-Aadhaar Number : 1234567891011120
-Pension Amount : 6069.98
-Bank Service Charge : 550.0
+Database credentials:  
+
+Username: sa  
+
+Password:  
+
+Swagger access points:  
+
+Webportal: http://localhost:9096/swagger-ui.html  
+
+ProcessPension Microservice: http://localhost:9090/swagger-ui.html  
+
+PensionDisbursement Microservice: http://localhost:9091/swagger-ui.html  
+
+Pensioner Detail Microservice: http://localhost:9092/swagger-ui.html  
+
+Authorization Microservice: http://localhost:9095/swagger-ui.html  
+
+--------------------------------------------------------------------------------------------------
+
+Example for valid details:  
+
+Login Credentials:  
+
+Username : admin  
+
+Password : admin  
+
+Pensioner Detail Form:  
+
+Name: Page Glasper  
+
+DOB : 27-05-1970  
+
+PAN Number : A123456789  
+
+Aadhaar Number : 1234567891011120  
+
+Pension Type : Family Pension  
+
+Process Pension Form:  
+
+Aadhaar Number : 1234567891011120  
+
+Pension Amount : 6069.98  
+
+Bank Service Charge : 550.0  
