@@ -1,30 +1,30 @@
 # MFPEFinal
 
-Pod 1 MFPE  
+****Pod 1 MFPE  
 Pension Management System  
 
-Developed by:  
+**Developed by: ** 
 Samyuktha S  
 Princi Kumari  
 Shreya J B  
 Ashish Kumar Sah  
 
 --------------------------------------------------------------------------------------------------
-Web Portal Access point: http://localhost:9096/  
+**Web Portal Access point:** http://localhost:9096/  
 
-Database Access points:  
+**Database Access points:**  
 
 Bank log table: http://localhost:9092/h2-console/  
 
 User Credentials Table : http://localhost:9095/h2-console/  
 
-Database credentials:  
+**Database credentials: ** 
 
 Username: sa  
 
 Password:  
 
-Swagger access points:  
+**Swagger access points: ** 
 
 Webportal: http://localhost:9096/swagger-ui.html  
 
@@ -38,16 +38,16 @@ Authorization Microservice: http://localhost:9095/swagger-ui.html
 
 --------------------------------------------------------------------------------------------------
 
-Example for valid details:  
-
+**Example for valid details:  
+**
 Login Credentials:  
 
 Username : admin  
 
 Password : admin  
 
-Pensioner Detail Form:  
-
+**Pensioner Detail Form:  
+**
 Name: Page Glasper  
 
 DOB : 27-05-1970  
@@ -58,8 +58,8 @@ Aadhaar Number : 1234567891011120
 
 Pension Type : Family Pension  
 
-Process Pension Form:  
-
+**Process Pension Form:  
+**
 Aadhaar Number : 1234567891011120  
 
 Pension Amount : 6069.98  
