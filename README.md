@@ -38,7 +38,7 @@ Authorization Microservice: http://localhost:9095/swagger-ui.html
 
 --------------------------------------------------------------------------------------------------
 
-**Example for valid details:**
+**Example for valid details:**  
 **Login Credentials:**
 
 Username : admin  
