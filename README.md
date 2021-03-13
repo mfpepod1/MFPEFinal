@@ -3,8 +3,8 @@
 **Pod 1 MFPE  
 Pension Management System** 
 
-**Developed by:**
-Samyuktha S  
+**Developed by:**  
+Samyuktha S - Pod Leader  
 Princi Kumari  
 Shreya J B  
 Ashish Kumar Sah  
